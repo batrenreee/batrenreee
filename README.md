@@ -17,5 +17,5 @@ Bilgisayar Muhendisligi ogrencisiyim. Python ve C ile ilgileniyor; acik kaynak p
 ## 📫 Bana Ulasin
 
 - Mail: xerenpolatx@gmail.com
-- LinkedIn: [linkedin.com/in/eren-polat-8a8ba6312](https://www.linkedin.com/in/eren-polat-8a8ba6312/)
+- LinkedIn: [linkedin.com/in/Eren Polat](https://www.linkedin.com/in/eren-polat-8a8ba6312/)
 - Instagram: [instagram.com/batrenree](https://www.instagram.com/batrenree/)
