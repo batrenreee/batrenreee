@@ -8,14 +8,22 @@ Bilgisayar Muhendisligi ogrencisiyim. Python ve C ile ilgileniyor; acik kaynak p
 - C
 - Git & GitHub
 
+## 📊 GitHub Istatistikleri
+
+![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=batrenreee&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batrenreee&layout=compact&theme=radical)
+
+## 📈 Ziyaretçi Sayaci
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=batrenreee.batrenreee)
+
 ## 📌 Projelerimden Bazilari
 
-- [Sarki QR Olusturucu](https://github.com/batrenreee/qr_code) - YouTube'dan sarki arayip QR kodu olusturan basit PyQt uygulamasi.
-- [Ogrenci Bilgi Sistemi](https://github.com/batrenreee/Obs) - Universitelerin kullandigi tarzda bir ogrenci bilgi sistemi.
-- Diger projelerim icin repo listeme goz atabilirsiniz.
+- [Sarki QR Olusturucu](https://github.com/batrenreee/qr_code)
+- [Ogrenci Bilgi Sistemi](https://github.com/batrenreee/Obs)
 
 ## 📫 Bana Ulasin
 
-- Mail: xerenpolatx@gmail.com
-- LinkedIn: [linkedin.com/in/Eren Polat](https://www.linkedin.com/in/eren-polat-8a8ba6312/)
-- Instagram: [instagram.com/batrenree](https://www.instagram.com/batrenree/)
+- Mail: xerenpolatx@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/eren-polat-8a8ba631/)  
+- [Instagram](https://www.instagram.com/batrenree/)
