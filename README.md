@@ -1,11 +1,11 @@
 # Merhaba, ben Eren 👋
 
-Bilgisayar Muhendisligi ogrencisiyim. Python ve C ile ilgileniyor; acik kaynak projelere katkida bulunmaya calisiyorum. Kod yazarken ogrenmekten keyif aliyorum.
+Bilgisayar Muhendisligi ogrencisiyim. Python, C ve C# ile ilgileniyor; acik kaynak projelere katkida bulunmaya calisiyorum. Kod yazarken ogrenmekten keyif aliyorum.
 
 ## 🚀 Yetenekler
 
 - Python (PyQt5, tkinter)
-- C
+- C ve C#
 - Git & GitHub
 
 ## 📊 GitHub Istatistikleri
