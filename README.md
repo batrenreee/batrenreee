@@ -7,6 +7,7 @@ Bilgisayar Muhendisligi ogrencisiyim. Python, C ve C# ile ilgileniyor; acik kayn
 - Python (PyQt5, tkinter)
 - C ve C#
 - Git & GitHub
+- Html ve Css
 
 ## 📊 GitHub Istatistikleri
 
