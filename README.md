@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://github.com/batrenreee">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Bilgisayar+M%C3%BChendisliği+Öğrencisi;Python,+C%2B%2B,+C%23+Geliştiricisi;Açık+Kaynak+Meraklısı;Kodlarken+Öğreniyorum" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Bilgisayar+M%C3%BChendisliği+Öğrencisi;Python,+C%2B%2B,+C%23+Geliştiricisi;Ryoiki+Tenkai;Fukuma+Mizushi" alt="Typing SVG" />
   </a>
 </p>
 
