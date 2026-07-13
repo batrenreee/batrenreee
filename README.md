@@ -1,28 +1,28 @@
 <div align="center">
 
-# Merhaba, Ben Eren 👋
+# Hi, I'm Eren 👋
 
-### Bilgisayar Mühendisliği Öğrencisi & Geliştirici
+### Computer Engineering Student & Developer
 
 <p>
   <a href="https://github.com/batrenreee">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Bilgisayar+M%C3%BChendisliği+Öğrencisi;Python,+C%2B%2B,+C%23+Geliştiricisi;Ryoiki+Tenkai;Fukuma+Mizushi" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Python,+C%2B%2B,+C%23+Developer;Ryoiki+Tenkai;Fukuma+Mizushi" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 🚀 Hakkımda
+### 🚀 About Me
 
-Bilgisayar Mühendisliği öğrencisiyim. **Python**, **C** ve **C#** ile ilgileniyor; açık kaynak projelere katkıda bulunmaya çalışıyorum. Kod yazarken öğrenmekten keyif alıyorum.
+I am a Computer Engineering student. I am interested in **Python**, **C**, and **C#**, and I try to contribute to open-source projects. I enjoy learning while coding.
 
 </div>
 
-### 🛠️ Yetenekler
+### 🛠️ Skills
 
 <div align="center">
 
-| Diller | Frontend | Araçlar |
+| Languages | Frontend | Tools |
 |:---:|:---:|:---:|
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
@@ -30,17 +30,17 @@ Bilgisayar Mühendisliği öğrencisiyim. **Python**, **C** ve **C#** ile ilgile
 
 ---
 
-### 📌 Projelerimden Bazıları
+### 📌 Some of My Projects
 
-| Proje Adı | Açıklama |
+| Project Name | Description |
 | :--- | :--- |
-| **[Jujutsu Kaisen Fan Site](https://batrenreee.github.io/jujutsu_site)** | *Yeni!* İnteraktif karakter testi ve arama motoru içeren hayran sitesi. |
-| **[Sarki QR Olusturucu](https://github.com/batrenreee/qr_code)** | Python ile geliştirilmiş QR kod oluşturma aracı. |
-| **[Ogrenci Bilgi Sistemi](https://github.com/batrenreee/Obs)** | Veritabanı bağlantılı öğrenci yönetim sistemi. |
+| **[Jujutsu Kaisen Fan Site](https://batrenreee.github.io/jujutsu_site)** | *New!* A fan site featuring an interactive character quiz and a search engine. |
+| **[Song QR Generator](https://github.com/batrenreee/qr_code)** | A QR code generator tool developed with Python. |
+| **[Student Information System](https://github.com/batrenreee/Obs)** | Database-connected student management system. |
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Bilgisayar Mühendisliği öğrencisiyim. **Python**, **C** ve **C#** ile ilgile
 
 ---
 
-### 📫 Bana Ulaşın
+### 📫 Contact Me
 
 <div align="center">
 
