@@ -44,17 +44,16 @@ I am a Computer Engineering student. I am interested in **Python**, **C**, and *
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=batrenreee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Eren's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=batrenreee&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;v=1" alt="Eren's GitHub Stats" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batrenreee&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batrenreee&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;v=1" alt="Top Languages" />
 
 <br><br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=batrenreee.batrenreee" alt="visitor badge"/>
 
 </div>
-
 ---
 
 ### 📫 Contact Me
