@@ -34,7 +34,7 @@ I am a Computer Engineering student. I am interested in **Python**, **C**, and *
 
 | Project Name | Description |
 | :--- | :--- |
-| **[Jujutsu Kaisen Fan Site](https://batrenreee.github.io/jujutsu_site)** | *New!* A fan site featuring an interactive character quiz and a search engine. |
+| **[Jujutsu Kaisen Fan Site](https://batrenreee.github.io/jujutsu_site)** | A fan site featuring an interactive character quiz and a search engine. |
 | **[Song QR Generator](https://github.com/batrenreee/qr_code)** | A QR code generator tool developed with Python. |
 | **[Student Information System](https://github.com/batrenreee/Obs)** | Database-connected student management system. |
 
