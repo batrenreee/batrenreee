@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-I am a Computer Engineering student. I am interested in **Python**, **C**, and **C#**, and I try to contribute to open-source projects. I enjoy learning while coding.
+I am a Computer Engineering student. I am interested in **Python**, **C++**, and **C#**, and I try to contribute to open-source projects.
 
 </div>
 
