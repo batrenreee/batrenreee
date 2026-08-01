@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Eren 👋
+# Hi, I'm Eren
 
 ### Computer Engineering Student & Developer
 
@@ -12,13 +12,13 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I am a Computer Engineering student. I am interested in **Python**, **C++**, and **C#**, and I try to contribute to open-source projects.
 
 </div>
 
-### 🛠️ Skills
+### Skills
 
 <div align="center">
 
@@ -30,7 +30,7 @@ I am a Computer Engineering student. I am interested in **Python**, **C++**, and
 
 ---
 
-### 📌 Some of My Projects
+### Some of My Projects
 
 | Project Name | Description |
 | :--- | :--- |
@@ -40,7 +40,7 @@ I am a Computer Engineering student. I am interested in **Python**, **C++**, and
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -51,7 +51,7 @@ I am a Computer Engineering student. I am interested in **Python**, **C++**, and
 
 </div>
 
-### 📫 Contact Me
+### Contact Me
 
 <div align="center">
 
